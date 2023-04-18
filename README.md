@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/header.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Fazil. Fullstack Developer!" src="./assets/header.png" /></a></p>
 
 Hello there! I'm a passionate Software-Developer, Who enjoy Coding and learning new Technologies. I'm ready to take any Challenges.
 <br />
