@@ -28,6 +28,5 @@ Hello there! I'm a passionate Software-Developer, Who enjoy Coding and learning 
 <h2>⚡Stats</h2>
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fazilcodes&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazilcodes&hide=html&layout=compact&langs_count=4&theme=vision-friendly-dark&hide_border=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=fazilcodes&show_icons=true&theme=radical" align="left" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazilcodes&layout=compact" align="left" />
