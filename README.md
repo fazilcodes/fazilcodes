@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fazilthekkan01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kBbfHelXb95jBfcK1kfox5tL2W3LP1LS/view?usp=drive_link](https://drive.google.com/file/d/1kBbfHelXb95jBfcK1kfox5tL2W3LP1LS/view?usp=drive_link)
+- 📄 Checkout my resume <a href="https://drive.google.com/file/d/1kBbfHelXb95jBfcK1kfox5tL2W3LP1LS/view?usp=drive_link" download="fazil thekkan resume">View</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
