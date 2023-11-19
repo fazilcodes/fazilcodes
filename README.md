@@ -25,6 +25,8 @@
 
 # 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Memorize Everything You Learn!](https://dev.to/fazicodes/how-to-memorize-everything-you-learn-112f)
+- [React Animation Libraries.](https://dev.to/fazicodes/react-animation-libraries-3p2b)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazilcodes&show_icons=true&locale=en&layout=compact" alt="fazilcodes" /></p>
