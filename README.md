@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img width="80%" alt="Hello, I'm Fazil. Fullstack Developer!" src="./header.png" /></a></p>
 <img align="right" alt="programming" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [gamerhaul](https://github.com/fazilcodes/GamerHaul_React)
+- 🔭 I’m currently working on [Circle Up](https://github.com/fazilcodes/Circle_up_mern)
 
 - 🌱 I’m currently learning **Typescript, React, Django**
 
