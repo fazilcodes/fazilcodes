@@ -11,6 +11,8 @@
 
 - 📄 Checkout my resume <a href="https://drive.google.com/file/d/1kBbfHelXb95jBfcK1kfox5tL2W3LP1LS/view?usp=drive_link" download="fazil thekkan resume">View</a>
 
+- 👦 Know More <a href="https://fazilcodes.github.io/portfolio">Portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/fazicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fazicodes" height="30" width="40" /></a>
