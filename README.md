@@ -27,7 +27,6 @@
 
 # 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Methods to Build Logic While You Code ⚡](https://dev.to/fazicodes/build-logic-while-you-code-2je2)
 - [How To Overcome Laziness With Simple Steps.](https://dev.to/fazicodes/overcome-laziness-with-simple-steps-45c)
 - [How To Memorize Everything You Learn!](https://dev.to/fazicodes/how-to-memorize-everything-you-learn-112f)
 - [React Animation Libraries.](https://dev.to/fazicodes/react-animation-libraries-3p2b)
