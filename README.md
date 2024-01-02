@@ -27,6 +27,7 @@
 
 # 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Projects To Build As A Developer](https://dev.to/fazicodes/5-projects-to-build-as-a-developer-2lbf)
 - [How To Overcome Laziness With Simple Steps.](https://dev.to/fazicodes/overcome-laziness-with-simple-steps-45c)
 - [How To Memorize Everything You Learn!](https://dev.to/fazicodes/how-to-memorize-everything-you-learn-112f)
 - [React Animation Libraries.](https://dev.to/fazicodes/react-animation-libraries-3p2b)
