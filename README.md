@@ -37,7 +37,7 @@
 <h3 align="left">🧑‍💻 My github stats</h3>
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazilcodes&show_icons=true&locale=en&layout=compact" alt="fazilcodes" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazilcodes&" alt="fazilcodes" />
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazilcodes&" alt="fazilcodes" /></p>
+
 
 
