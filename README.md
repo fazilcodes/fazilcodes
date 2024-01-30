@@ -27,11 +27,11 @@
 
 # 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Work-Life Balance As A Software Developer](https://dev.to/fazicodes/work-life-balance-as-a-software-developer-3bj)
 - [You cannot succeed without this mentality](https://dev.to/fazicodes/you-cannot-succeed-without-this-mentality-24ph)
 - [5 Projects To Build As A Developer](https://dev.to/fazicodes/5-projects-to-build-as-a-developer-2lbf)
 - [How To Overcome Laziness With Simple Steps.](https://dev.to/fazicodes/overcome-laziness-with-simple-steps-45c)
 - [How To Memorize Everything You Learn!](https://dev.to/fazicodes/how-to-memorize-everything-you-learn-112f)
-- [React Animation Libraries.](https://dev.to/fazicodes/react-animation-libraries-3p2b)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🧑‍💻 My github stats</h3>
