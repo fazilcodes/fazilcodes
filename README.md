@@ -27,11 +27,11 @@
 
 # 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JWT&lpar;json web tokens&rpar;](https://dev.to/fazicodes/jwtjson-web-tokens-49a3)
 - [Do you think Software Development is Dead?](https://dev.to/fazicodes/do-you-think-software-development-is-dead-5551)
 - [HTTP Methods](https://dev.to/fazicodes/http-methods-b0j)
 - [Work-Life Balance As A Software Developer](https://dev.to/fazicodes/work-life-balance-as-a-software-developer-3bj)
 - [You cannot succeed without this mentality](https://dev.to/fazicodes/you-cannot-succeed-without-this-mentality-24ph)
-- [5 Projects To Build As A Developer](https://dev.to/fazicodes/5-projects-to-build-as-a-developer-2lbf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🧑‍💻 My github stats</h3>
